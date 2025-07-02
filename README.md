@@ -1,4 +1,7 @@
 # Object-Detection-using-TensorFlow
+
+This project focuses on building an object detection model using TensorFlow and OpenCV. It demonstrates how to detect and locate multiple object classes in images using bounding boxes. The model is trained on a custom dataset from Kaggle.
+
 ---
 
 ## 🧰 Features
