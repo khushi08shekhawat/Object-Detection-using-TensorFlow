@@ -42,7 +42,7 @@ Copyright (c) 2025 Khushi Shekhawat
 ## 🙋‍♀️ Author
 
 **Khushi Shekhawat**  
-📧 Email: [khushishekawat728@gmail.com](mailto:khushishekhawat0811@gmail.com)  
+📧 Email: [khushishekhawat0811@gmail.com](mailto:khushishekhawat0811@gmail.com)  
 🔗 GitHub: [github.com/khushi08shekhawat](https://github.com/khushi08shekhawat)
 
 ---
