@@ -33,16 +33,6 @@ This project focuses on building an object detection model using TensorFlow and 
 
 ---
 
-## 🧪 Sample Output
-
-| Original Image | Detected Output |
-|----------------|-----------------|
-| ![before](images/sample1.jpg) | ![after](images/result1.jpg) |
-
-> *Bounding boxes with class names and confidence scores drawn on test images.*
-
----
-
 ## 🪪 License
 
 MIT License  
