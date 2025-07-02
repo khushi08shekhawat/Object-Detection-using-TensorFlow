@@ -11,7 +11,6 @@ This project focuses on building an object detection model using TensorFlow and 
 - Trained using TensorFlow and Keras on a custom dataset
 - Uses bounding box annotation (YOLO/Pascal VOC format)
 - Annotated with OpenCV for live or static image prediction
-- Jupyter Notebook implementation with clean modular code
 - Easily extendable for new classes or datasets
 
 ---
