@@ -27,7 +27,7 @@ This project focuses on building an object detection model using TensorFlow and 
 
 - **Language:** Python  
 - **Libraries:** TensorFlow, Keras, OpenCV, NumPy, Matplotlib  
-- **Tools:** Google Colab, Kaggle Datasets, Jupyter Notebook
+- **Tools:** Google Colab, Kaggle Datasets
 
 ---
 
